@@ -1,3 +1,3 @@
 # Honeycomb Coding Challenges
 
-Coding challenges for fun :)
+Coding challenges for fun :D
