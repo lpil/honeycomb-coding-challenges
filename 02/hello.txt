@@ -1,0 +1,9 @@
+1. Open this file with `vim -u NONE path/to/file/hello.txt`
+2. Type your name on the line above the ^^^
+3. Hit escape to get back into normal mode
+4. Type   Gyy@"
+
+
+^^^
+
+d2kggd4jiHello, A, nice to meet you!
